@@ -1,0 +1,78 @@
+[01-Jul-2019 00:07:36 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[01-Jul-2019 00:07:36 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[01-Jul-2019 00:07:36 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[01-Jul-2019 00:07:36 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[01-Jul-2019 00:07:36 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[04-Jul-2019 17:24:04 UTC] PHP Notice:  Undefined index: C in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[04-Jul-2019 17:24:04 UTC] PHP Notice:  Undefined index: C in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[04-Jul-2019 17:24:04 UTC] PHP Notice:  Undefined index: C in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[04-Jul-2019 17:24:04 UTC] PHP Notice:  Undefined index: C in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[04-Jul-2019 17:24:04 UTC] PHP Notice:  Undefined index: C in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Jul-2019 09:24:07 UTC] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/themes/mrseo/functions.php on line 929
+[12-Jul-2019 05:25:45 UTC] PHP Parse error:  syntax error, unexpected ''mrseo_elated_header_' (T_ENCAPSED_AND_WHITESPACE) in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/themes/mrseo/functions.php on line 317
+[12-Jul-2019 06:42:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/themes/mrseo/functions.php on line 967
+[12-Jul-2019 06:44:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/themes/mrseo/functions.php on line 967
+[29-Aug-2019 12:26:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/plugins/WP-Custom-List-Table-With-Database-Example-master/custom-list-table-db-example.php on line 620
+[29-Aug-2019 12:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u2xbs1383ew6/public_html/facednatest.com/wp-content/plugins/WP-Custom-List-Table-With-Database-Example-master/custom-list-table-db-example.php on line 620
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: E in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: E in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: E in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: E in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[11-Sep-2019 12:25:33 UTC] PHP Notice:  Undefined index: E in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[19-Sep-2019 12:13:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[19-Sep-2019 12:13:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[19-Sep-2019 12:13:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[19-Sep-2019 12:13:33 UTC] PHP Notice:  Undefined index: P in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[25-Sep-2019 13:12:05 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Writer\Exception: No writer found for type Pdf in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:50
+Stack trace:
+#0 /home/u2xbs1383ew6/public_html/facednatest.com/mobile/report2.php(137): PhpOffice\PhpSpreadsheet\IOFactory::createWriter(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 'Pdf')
+#1 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 50
+[27-Sep-2019 13:44:26 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[27-Sep-2019 13:44:26 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[27-Sep-2019 13:44:26 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[27-Sep-2019 13:44:26 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[27-Sep-2019 13:44:27 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[03-Oct-2019 03:41:17 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Writer\Exception: No writer found for type Pdf in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:50
+Stack trace:
+#0 /home/u2xbs1383ew6/public_html/facednatest.com/mobile/report2.php(137): PhpOffice\PhpSpreadsheet\IOFactory::createWriter(Object(PhpOffice\PhpSpreadsheet\Spreadsheet), 'Pdf')
+#1 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 50
+[14-Oct-2019 19:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php on line 84
+[21-Oct-2019 00:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php on line 85
+[21-Oct-2019 00:58:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/vendor/phpmailer/phpmailer/src/PHPMailer.php:1516
+Stack trace:
+#0 /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/vendor/phpmailer/phpmailer/src/PHPMailer.php(1419): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php(99): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1516
+[21-Oct-2019 01:14:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in sendmail2.php on line 111
+[21-Oct-2019 01:15:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php on line 111
+[21-Oct-2019 01:15:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php on line 111
+[21-Oct-2019 01:16:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/sendmail2.php on line 113
+[21-Oct-2019 01:16:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in sendmail2.php on line 113
+[21-Oct-2019 01:18:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in sendmail2.php on line 111
+[21-Oct-2019 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fastcgi_finish_request() in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/report2.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/report2.php on line 105
+[21-Oct-2019 01:50:14 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:50:14 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:50:14 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:50:14 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:50:14 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:51:20 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:51:20 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:51:20 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:51:20 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
+[21-Oct-2019 01:51:20 UTC] PHP Notice:  Undefined index: D in /home/u2xbs1383ew6/public_html/facednatest.com/mobile/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/LookupRef.php on line 624
